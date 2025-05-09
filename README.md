@@ -73,7 +73,7 @@ Below is the detailed analysis of various factors that may impact customer churn
 
 ### Credit Card
 
-= Around 70% of customers have Credit Card but the churn rate seems to be similar for both customers having credit card and those without credit card.
+- Around 70% of customers have Credit Card but the churn rate seems to be similar for both customers having credit card and those without credit card.
 - Thus having credit card doesn't affect customer churn.
 
 ![Churn Credit Card](https://github.com/Curious-Creative-Mind/Banking-Customer-Churn-Analysis/blob/main/Churn%20Credit_Card.png?raw=true)
