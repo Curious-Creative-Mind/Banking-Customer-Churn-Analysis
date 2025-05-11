@@ -117,7 +117,7 @@ Based on the uncovered insights, the following recommendations have been provide
 
 ### Tools used:
 
-- **Python-(Numpy, Pandas)** – for Data Cleaning, Data Transformation and EDA
+- **Python-(NumPy, Pandas)** – for Data Cleaning, Data Transformation and EDA
 - **Python-(Matplotlib, Seaborn)** – for Data Visualization and Data Analysis
 
 ### Skills applied and learned:
